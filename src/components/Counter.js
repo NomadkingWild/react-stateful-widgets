@@ -62,7 +62,7 @@ export default function Counter() {
   };
   const reset = (event) => {
     /* STEP 6 */
-    setCount(count == 0 )
+    setCount(0)
   };
 
   const style = {
